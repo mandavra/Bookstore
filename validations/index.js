@@ -1,0 +1,1 @@
+module.exports.BookstoreValidation = require("./Bookstore.validation");
